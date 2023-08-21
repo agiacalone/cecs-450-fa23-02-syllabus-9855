@@ -1,12 +1,12 @@
-# Introduction to Computer Security
+# Data Visualization
 
-## CECS 478: Section 1 (5185)
+## CECS 450: Section 2 (9855)
 
 ### Fall 2023
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
+| Tu Th         | 11:00 AM - 12:15 PM | ECS-414 |
 
 | Instructor        | Email                       | Office  | Office Hours               |
 |-------------------|-----------------------------|---------|----------------------------|
@@ -14,55 +14,57 @@
 
 ### Required Textbook
 
-* [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) by Jon Erikson. 2008. 2nd edition.
+* [Interactive Data Visualization - Foundations, Techniques, and Applications](https://www.amazon.com/Interactive-Data-Visualization-Foundations-Applications-ebook/dp/B00WHMYEJ2) by Matthew Ward, Georges Grinstein, Daniel Keim. 2015. 2nd edition.
+
+### Optional Textbook
+* [Analyzing Baseball Data with R](https://www.amazon.com/Analyzing-Baseball-Data-Second-Chapman/dp/0815353510) by Benjamin S Baumer. 2018. 2nd edition.
 
 ### Catalog Description
 
-**Prerequisite**: CECS 328 or CECS 346 with a grade of “C” or better.
-Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics.
+**Prerequisite**: CECS 343 with a grade of “C” or better
+Introduction to various techniques in data visualization supporting the analytical process of turning data into wisdom. Introduction to general concepts, principles, and practices with specific visualization designs. Overview of analytical techniques, analytical interaction, and navigation design. Programming assignments.
 
-Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H.
+Letter grading only (A-F). (Lecture-problems 3 hours)
 
 ### Course Goals
 
 By the conclusion of this course, students will be able to:
 
-* Understand the meaning and risks of computer security
-* Apply problem solving skills to recognize and solve security problems
-* Understand, recognize, and know how to avoid the main security vulnerabilities
-* Make ethical decisions with respect to computer security and user privacy
-* Know how to design and analyze a secure computer system in general
-* Have a solid understanding of current, topical issues in computer security
+* Achieve basic understanding of notable topics in the field of interactive data visualization
+* Know the basic terminology, concepts, techniques, and algorithms commonly used with data visualization
+* Design, develop, and evaluate interactive visual solutions for given use cases
+* Be exposed to guidelines and principles for effective visualization that are derived from the study of human perception, graphical design, art, and usability analysis
 
-| Grading           |      | | Grade Scale |    |
-|-------------------|------|-|-------------|----|
-| Homework and Labs | 35%  | | >= 90%      | A  |
-| Exam One          | 20%  | | 80% - 89%   | B  |
-| Exam Two          | 20%  | | 70% - 79%   | C  |
-| Final Exam        | 25%  | | 60% - 69%   | D  |
-|                   |      | | < 60%       | F  |
-| **Total**         | 100% | |             |    |
+
+| Grading                 |      | | Grade Scale |    |
+|-------------------------|------|-|-------------|----|
+| Course Project and Labs | 35%  | | >= 90%      | A  |
+| Exam One                | 20%  | | 80% - 89%   | B  |
+| Exam Two                | 20%  | | 70% - 79%   | C  |
+| Final Exam              | 25%  | | 60% - 69%   | D  |
+|                         |      | | < 60%       | F  |
+| **Total**               | 100% | |             |    |
 
 ### Tentative Class Schedule
 
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Aug 21     | Introduction to Computer Security and Hacking (Ch 1)|
-| Aug 28     | Programming for Hackers (Ch 2)                      |
-| Sep  4     | Exploitation (Ch 3)                                 |
-| Sep 11     | Exploitation, ctd.                                  |
-| Sep 18     | First exam, Networking (Ch 4)                       |
-| Sep 25     | Networking, ctd.                                    |
-| Oct  2     | Shellcode (Ch 5)                                    |
-| Oct  9     | Shellcode, ctd.                                     |
-| Oct 16     | Second Exam, Countermeasures (Ch 6)                 |
-| Oct 23     | Countermeasures, ctd.                               |
-| Oct 30     | Cryptography/Cryptology (Ch 7)                      |
-| Nov  6     | Crypto, ctd.                                        |
-| Nov 13     | Crypto, ctd.                                        |
-| Nov 20     | Fall Break                                          |
-| Nov 27     | Case Studies in Hacking                             |
-| Dec 4-11   | Case Study, Final Exam                              |
+| Aug 21     |  Introduction to Data Visualization                 |
+| Aug 28     |  Data Foundation and Imaging Models                 |
+| Sep  4     |  Tools, Languages, and Software                     |
+| Sep 11     |  Tools, ctd.                                        |
+| Sep 18     |  Human Perception and Info Processing               |
+| Sep 25     |  Visualization Techniques                           |
+| Oct  2     |  Visualization Techniques, ctd.                     |
+| Oct  9     |  Visualization Techniques, ctd., *Midterm*          |
+| Oct 16     |  Text & Document Visualization                      |
+| Oct 23     |  Interaction with Data                              |
+| Oct 30     |  Interaction, ctd.                                  |
+| Nov  6     |  Effective Design and Presentation, *Midterm*       |
+| Nov 13     |  Effective Design, ctd.                             |
+| Nov 20     |  Fall Break                                         |
+| Nov 27     |  Visualization Systems                              |
+| Dec 4-11   |  *Semester Project Presentation*, *Final Exam*      |
 
 ### Exams
 
